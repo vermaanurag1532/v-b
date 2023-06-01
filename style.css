@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    height: 750px;
+}
+
+.content{
+    margin: 5%;
+    width: 50%;
+    padding: 2%;
+}
+
+.heading1{
+    color: #fff;
+    font-size: 45px;
+    font-weight: 650;
+    margin-bottom: 4%;
+}
+
+.heading2{
+    color: rgb(87, 87, 87);
+    font-size: 20px;
+    font-weight: 350;
+    margin-bottom: 6%;
+}
+
+.content_button{
+    padding: 1%;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    background-color: rgb(211, 4, 152);
+}
+
+.cards{
+    padding: 5%;
+}
+
+.card{
+    display: flex;
+    background-color: rgb(211, 4, 152);
+    color: #fff;
+    margin: 5%;
+}
